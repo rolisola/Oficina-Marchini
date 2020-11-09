@@ -1,8 +1,8 @@
 <h1 align="center">Oficina Marchini</h1>
 <p align="center">
     <a href="https://github.com/rolisola/Oficina-Marchini/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/rolisola/Oficina-Marchini" alt="LICENSE"></a>
-    <img src="https://img.shields.io/github/last-commit/rolisola/Oficina-Marchini" alt="LICENSE">
-    <img src="https://img.shields.io/github/release-date/rolisola/Oficina-Marchini" alt="LICENSE">
+    <img src="https://img.shields.io/github/last-commit/rolisola/Oficina-Marchini">
+    <img src="https://img.shields.io/github/release-date/rolisola/Oficina-Marchini">
 </p>
 
 Este é um projeto de website para a Oficina Marchini, fabricante de charretes, carroças e troles, situada em Limeira, no estado de São Paulo.
